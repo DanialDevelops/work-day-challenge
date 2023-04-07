@@ -13,5 +13,8 @@ In this project I worked on making a work day scheduler that saves notes applied
 
 -also worked with data-time to make it easier for js to interact with the time varibles on the page
 
+-deployed link:
+https://danialdevelops.github.io/work-day-challenge/
+
 ### Image example of my site
 ![Screenshot_2](https://user-images.githubusercontent.com/126214677/230535868-c7974cfa-c8c8-4b75-a443-3481fba71aaa.png)
